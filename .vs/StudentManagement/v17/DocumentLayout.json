@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\controllers\\studentscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\data\\studentcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\studentcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|c:\\users\\sara\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\studentmanagement\\studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202579D6-26FD-43CE-839B-34D411E40278}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T07:12:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T20:28:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:24:36.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController .cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Controllers\\StudentsController .cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController .cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Controllers\\StudentsController .cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController .cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:22:57.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\StudentService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:21:31.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext .cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Data\\StudentContext .cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\StudentContext .cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Data\\StudentContext .cs",
+              "RelativeToolTip": "StudentManagement\\Data\\StudentContext .cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:18:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\Sara\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA \u05D4\u05E4\u05EA\u05D5\u05D7\u05D4\\StudentManagement\\StudentManagement\\Models\\Class.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:17:40.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
