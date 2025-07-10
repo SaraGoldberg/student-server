@@ -61,10 +61,5 @@ namespace StudentManagement.Controllers
                 ? NotFound($"סטודנט עם מזהה {id} לא נמצא")
                 : NoContent();
         }
-        [HttpGet("boom")]
-        public IActionResult Boom()
-        {
-            throw new Exception("שגיאה בדיקה");
-        }
     }
 }
