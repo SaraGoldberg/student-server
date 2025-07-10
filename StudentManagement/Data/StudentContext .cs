@@ -15,11 +15,9 @@ namespace StudentManagement.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // הגדרת מפתח ראשי
             modelBuilder.Entity<Student>()
                 .HasKey(s => s.StudentId);
 
-            // הגדרת שדות נדרשים
             modelBuilder.Entity<Student>()
                 .Property(s => s.FullName)
                 .IsRequired()
